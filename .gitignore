@@ -1,0 +1,21 @@
+# OS junk
+.DS_Store
+Thumbs.db
+~$*
+
+# Office lock files
+.~lock.*
+
+# Python
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Confidential — never part of a non-WSQ course
+assessment/
+reference/
+
+# WSQ source clone (read-only input for the conversion)
+source-wsq/
